@@ -1,12 +1,12 @@
-### Code Review for 3 pieces of code (2 links)
+## Code Review for 3 pieces of code (2 links)
 
 Code review [Video 1](https://youtu.be/OmBl6OdzFpI)
 
 Code review [Video 2](https://youtu.be/nfffoUeilz0)
 
-### Software Design and Engineering
+## Software Design and Engineering
 
-## Narrative
+### Narrative
 
 This artifact is a python program that I created in my first term at SNHU. It creates a dictionary, and based on a prompt from the user, it sorts and prints the dictionary by different values. I chose this artifact because it was one of the first things that I created however it shows a lot of potential. It shows the use of Boolean values, loops, dictionaries and taking in puts. To improve this artifact, I chose to strip the users input to be all lowercase letters and remove any possible whitespace. This will help deter any errors in the users input and still have the program work accordingly. I also added comments to the code so it can easily be understood what is being done in every piece of the code. I wrote this when I was newer to coding and did not understand the importance of comments. I feel that I have met the course objectives and have successfully made this code better. I did not face many challenges when enhancing this code as they were very simple changes such as changing the users input to be lower case and stripped of whitespace, python makes this very easy to do. And when it came to adding comments, I already knew what was being done in the code so the commenting was very easy to do.
 
@@ -110,9 +110,9 @@ while promptuser:
         print("N/A")
 ```
 
-### Algorithm and Data Structures
+## Algorithm and Data Structures
 
-## Narrative
+### Narrative
 
 The second artifact that I have chosen is a Java program that is used to calculate weights. I created this about two years ago in one of my SNHU classes. I can justify putting this into my portfolio because it uses several mathematics, takes input, and gives outputs. By using this piece, it showcases my abilities to use different mathematics in the java language. To improve this artifact, I allowed the user to input how many weights they wanted to input to be calculated. Originally this value was set to 5, but I figured it would be more useful if the user could enter however many weights they wanted to. I would say that I successfully met the requirements of my enhancements since I added this feature, and it works successfully. As I was enhancing this project, I quickly remembered how much I do not like using Java, but it was a great way to reteach myself how it works and what would be needed to adjust the variables it orders to make this code work the way that I wanted.
 
@@ -224,9 +224,9 @@ public class PeopleWeights {
 }
 ```
 
-### Database
+## Database
 
-## Narrative
+### Narrative
 
 The artifact that I have chosen to represent my work on databases is a SQL query that I personally developed for my professional use. It is a SQL query that will search for providers on multiple look up tables and print out which tables a provider is on. I created this in August of 2019. The purpose of creating this query, was for work I was often tasked with finding and removing providers off look up tables, which was often very time consuming. By creating this query, I was able to save approximately 3 or 4 hours per week of work. This case specifically shows my knowledge of take what I have learned at SNHU and using it in the real world. The query was very successful, and although there were not many refinements to it, I did clean up the spacing to make it look nicer. I would say this easily met my objectives from milestone one. Building this query was very time consuming, although it helped me learn how to perform select statements within select statements. And my biggest challenge through out creating it was learning and understanding the different tables that data lives on in our production environment.
 
