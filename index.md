@@ -236,7 +236,7 @@ public class PeopleWeights {
 
 The artifact that I have chosen to represent my work on databases is a SQL query that I personally developed for my professional use. It is a SQL query that will search for providers on multiple look up tables and print out which tables a provider is on. I created this in August of 2019. The purpose of creating this query, was for work I was often tasked with finding and removing providers off look up tables, which was often very time consuming. By creating this query, I was able to save approximately 3 or 4 hours per week of work. This case specifically shows my knowledge of take what I have learned at SNHU and using it in the real world. The query was very successful, and although there were not many refinements to it, I did clean up the spacing to make it look nicer. I would say this easily met my objectives from milestone one. Building this query was very time consuming, although it helped me learn how to perform select statements within select statements. And my biggest challenge through out creating it was learning and understanding the different tables that data lives on in our production environment.
 
-```SQL
+```sql
 SELECT TableName, KeyName
 FROM Ens_Util.LookupTable
 WHERE KeyName IN (
