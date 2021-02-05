@@ -1,3 +1,9 @@
+### Code Review for 3 pieces of code (2 links)
+
+https://youtu.be/OmBl6OdzFpI
+
+https://youtu.be/nfffoUeilz0
+
 ### Software Design and Engineering
 
 ```
