@@ -1,5 +1,5 @@
 # Andrew Kuhn
-## CS-499 ePortoflio
+## CS-499 ePortfolio
 ## Southern New Hampshire University
 
 
