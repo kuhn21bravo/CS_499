@@ -9,7 +9,6 @@
    In the artifacts that I have chosen, I decided to pick three different programming languages and three completely different types of code. By doing this, it shows my diversity in the software world. My first artifact is a Python program that I created my very first term at SNHU. This artifact works with dictionaries and arrays. My second artifact is a Java program that I created in a later term at SNHU. I chose this program because it takes users input, allows for several mathematical equations to be performed. My third artifact is the one I feel is most important because I developed this SQL query while working for my current company. This was a small project I took on my own, and by creating this query it allowed me to save around 50 hours of work per year. It is a rather complex query that involves select statements within select statements. Putting these three artifacts together, shows how my abilities have changed and grown since beginning my studies.
 
  
- 
 ## Code Review for 3 pieces of code (2 links)
 
 Code review [Video 1](https://youtu.be/OmBl6OdzFpI)
